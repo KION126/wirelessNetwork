@@ -1,6 +1,6 @@
 # wirelessNetwork
 
-한글깨짐
-sudo apt-get install fonts-unfonts-core -y
-sudo apt-get install ibus ibus-hangul -y
+한글깨짐<br>
+sudo apt-get install fonts-unfonts-core -y<br>
+sudo apt-get install ibus ibus-hangul -y<br>
 sudo reboot
